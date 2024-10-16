@@ -6,6 +6,7 @@ Score is also saved in text document:
   - Random dots count
   - Score
   - Difficulty (is a little broken)
+
 Controls:
   - Left  Button  Click  -  Place the dot
   - Space Button  Press  -  Start the game again
